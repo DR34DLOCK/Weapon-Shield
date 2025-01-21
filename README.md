@@ -1,2 +1,3 @@
 # Weapon-Shield
-A Software to Control the Mechanism(s) for the retractable shield attachment "Weapon Shields" Patent Pending
+A Software to Control the Mechanism(s) and Components for the retractable shield attachment "Weapon Shields" Patent Pending...
+To be comaptable with the "MPS" Engine see: https://github.com/DR34DLOCK/-DR34DLOCK-s-Military-Personal-Sonar-MPS- 
